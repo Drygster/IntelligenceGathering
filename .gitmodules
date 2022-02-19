@@ -1,0 +1,6 @@
+[submodule "PassiveGathering/sherlock"]
+	path = PassiveGathering/sherlock
+	url = https://github.com/sherlock-project/sherlock
+[submodule "PassiveGathering/theHarvester"]
+	path = PassiveGathering/theHarvester
+	url = https://github.com/laramies/theHarvester
