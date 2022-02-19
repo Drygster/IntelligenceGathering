@@ -1,6 +1,9 @@
-[submodule "PassiveGathering/sherlock"]
-	path = PassiveGathering/sherlock
+[submodule "PassiveGathering/OSINT/sherlock"]
+	path = PassiveGathering/OSINT/sherlock
 	url = https://github.com/sherlock-project/sherlock
-[submodule "PassiveGathering/theHarvester"]
-	path = PassiveGathering/theHarvester
+[submodule "PassiveGathering/OSINT/theHarvester"]
+	path = PassiveGathering/OSINT/theHarvester
 	url = https://github.com/laramies/theHarvester
+[submodule "PassiveGathering/testssl"]
+	path = PassiveGathering/testssl
+	url = https://github.com/drwetter/testssl.sh
