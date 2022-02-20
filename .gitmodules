@@ -7,3 +7,24 @@
 [submodule "PassiveGathering/testssl"]
 	path = PassiveGathering/testssl
 	url = https://github.com/drwetter/testssl.sh
+[submodule "PassiveGathering/recon-ng"]
+	path = PassiveGathering/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
+[submodule "PassiveGathering/OSINT/spiderfoot"]
+	path = PassiveGathering/OSINT/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "PassiveGathering/OSINT/EagleEye"]
+	path = PassiveGathering/OSINT/EagleEye
+	url = https://github.com/ThoughtfulDev/EagleEye
+[submodule "ActiveGathering/dnsenum2"]
+	path = ActiveGathering/dnsenum2
+	url = https://github.com/SparrowOchon/dnsenum2
+[submodule "ActiveGathering/dnsrecon"]
+	path = ActiveGathering/dnsrecon
+	url = https://github.com/darkoperator/dnsrecon
+[submodule "ActiveGathering/gonmap"]
+	path = ActiveGathering/gonmap
+	url = https://github.com/edoermini/gonmap
+[submodule "ActiveGathering/masscan"]
+	path = ActiveGathering/masscan
+	url = https://github.com/robertdavidgraham/masscan
