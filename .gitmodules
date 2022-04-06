@@ -28,6 +28,3 @@
 [submodule "ActiveGathering/masscan"]
 	path = ActiveGathering/masscan
 	url = https://github.com/robertdavidgraham/masscan
-[submodule "ActiveGathering/cutter"]
-	path = ActiveGathering/cutter
-	url = https://github.com/rizinorg/cutter
