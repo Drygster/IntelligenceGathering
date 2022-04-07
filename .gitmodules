@@ -28,3 +28,6 @@
 [submodule "ActiveGathering/masscan"]
 	path = ActiveGathering/masscan
 	url = https://github.com/robertdavidgraham/masscan
+[submodule "ActiveGathering/wireshark"]
+	path = ActiveGathering/wireshark
+	url = https://github.com/wireshark/wireshark
